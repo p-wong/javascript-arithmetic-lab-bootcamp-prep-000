@@ -18,7 +18,7 @@ function divide(a, b) {
   return x
 }
 
-function divide(a, b) {
+function inc(n) {
   var x = a / b 
   return x
 }
