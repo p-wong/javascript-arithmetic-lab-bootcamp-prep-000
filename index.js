@@ -25,7 +25,7 @@ function inc(n) {
 }
 
 function dec(n) {
-  x -= n
+  var x -= n
   return x
 }
 
