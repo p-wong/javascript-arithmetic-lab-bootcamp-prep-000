@@ -1,1 +1,3 @@
-console.log(parseInt('2', 10))
+function add(a, b) {
+  
+}
